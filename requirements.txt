@@ -1,0 +1,4 @@
+Python 3.x
+Jupyter Notebook
+Streamlit
+Libraries: NumPy, Pandas, TensorFlow/Keras, Matplotlib, OpenCV, BeautifulSoup (for web scraping), Pickle
