@@ -1,7 +1,3 @@
-Here's a detailed README template for the food calorie recognition project using Streamlit:
-
----
-
 # Food Calorie Recognition Project
 
 This project focuses on building a food calorie recognition system using deep learning techniques. The system can classify food items into categories such as fruits and vegetables, predict the specific type of food, and retrieve calorie information through web scraping. The project is implemented using Python and Streamlit for the web interface.
@@ -35,7 +31,7 @@ This project focuses on building a food calorie recognition system using deep le
 - Python 3.x
 - Jupyter Notebook
 - Streamlit
-- Libraries: NumPy, Pandas, TensorFlow/Keras, Matplotlib, OpenCV, BeautifulSoup (for web scraping), Pickle
+- Libraries: NumPy, Pandas, TensorFlow/Keras, Matplotlib, OpenCV, Pickle
 
 ### Installation
 1. **Clone the Repository**: Clone this project to your local machine.
@@ -62,6 +58,3 @@ This project focuses on building a food calorie recognition system using deep le
 
 This project is licensed under the MIT License, allowing for open use and distribution.
 
----
-
-This README provides a comprehensive overview of the project, covering its features, setup instructions, and usage details. It follows the same format as the previous README to maintain consistency across your repositories.
